@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Haiyang Wang (汪海洋), the final year Ph.D at Peking University, advised by [Prof. Liwei Wang](http://www.liweiwang-pku.com/). Before starting Ph.D., I completed my undergraduate studies at Zhiyuan College in Shanghai Jiaotong University.
+Hi! I'm Haiyang Wang (汪海洋), the 5-th year Ph.D at Peking University (PKU), advised by [Prof. Liwei Wang](http://www.liweiwang-pku.com/). Before starting Ph.D., I received my bachelor’s degree from the Zhiyuan College in Shanghai Jiaotong University (SJTU).
 
-My main research area lies in studying foundation models, such as **architecture design** and **unified modeling**.
+My research interests focus on machine learning and computer vision, particularly in exploring machine learning for AGI. This includes fundamental neural network architecture designing, large language modeling, unified visual modeling, multi-modal understanding, and other topics related to foundation models.
 
 Here are several research areas I worked on:
 * Designing neural network architecture of foundation models. 
-* Unified computation framework for visual modeling. 
+* Unified computation framework for general visual modeling. 
 * 3D perception (Lidar + Camera) in autonomous driving.
 
 If you are interested in collaborating with me or want to have a chat, always feel free to contact me through e-mail.
@@ -24,7 +24,7 @@ If you are interested in collaborating with me or want to have a chat, always fe
 <sub>\* means equal contribution. </sub>
 
 * [GiT: Towards Generalist Vision Transformer through Universal Language Interface](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/04158.pdf).\\
-**Haiyang Wang\***, Hao Tang\*, Li Jiang, Shaoshuai Shi, Muhammad Ferjad Naeem, Hongsheng Li, Bernt Schiele, Liwei Wang. In [**ECCV 2024**](https://eccv.ecva.net/Conferences/2024) (**<font color=red>Oral</font>**). \[[Code](https://github.com/Haiyang-W/GiT)\] &nbsp;<a href="https://github.com/Haiyang-W/GiT"><img alt="GitHub stars" style="vertical-align:middle" src="https://img.shields.io/github/stars/Haiyang-W/GiT?style=social"> </a>
+**Haiyang Wang\***, Hao Tang\*, Li Jiang, Shaoshuai Shi, Muhammad Ferjad Naeem, Hongsheng Li, Bernt Schiele, Liwei Wang. In [**ECCV 2024**](https://eccv.ecva.net/Conferences/2024). \[[Code](https://github.com/Haiyang-W/GiT)\] &nbsp;<a href="https://github.com/Haiyang-W/GiT"><img alt="GitHub stars" style="vertical-align:middle" src="https://img.shields.io/github/stars/Haiyang-W/GiT?style=social"> </a> (**<font color=red>(Oral Presentation, 2.32% acceptance rate)</font>**)
 
 * [PRED: Pre-training via Semantic Rendering on LiDAR Point Clouds.](https://proceedings.neurips.cc/paper_files/paper/2023/file/903f778fe1341e5351b5b63e0e6b197f-Paper-Conference.pdf).\\
 Hao Yang, **Haiyang Wang**, Di Dai, Liwei Wang. In [**NeurIPS 2023**](https://neurips.cc/Conferences/2023).
