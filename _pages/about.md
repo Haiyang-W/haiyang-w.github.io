@@ -8,14 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Haiyang Wang (汪海洋), the 5-th year Ph.D at Peking University (PKU), advised by [Prof. Liwei Wang](http://www.liweiwang-pku.com/). Before starting Ph.D., I received my bachelor’s degree from the Zhiyuan College in Shanghai Jiaotong University (SJTU).
+Hi! I'm Haiyang Wang (汪海洋), the 5-th year Ph.D at Peking University (PKU), advised by [Prof. Liwei Wang](http://www.liweiwang-pku.com/). Before starting Ph.D., I received my bachelor’s degree from the Zhiyuan College in Shanghai Jiaotong University (SJTU), supervised by [Prof. Cewu Lu](https://www.mvig.org/).
 
 My research interests focus on machine learning and computer vision, particularly in exploring machine learning for AGI. This includes fundamental neural network architecture designing, large language modeling, unified visual modeling, multi-modal understanding, and other topics related to foundation models.
 
 Here are several research areas I worked on:
-* Designing neural network architecture of foundation models. 
+* Designing neural network architecture for foundation models. 
 * Unified computation framework for general visual modeling. 
-* 3D perception (Lidar + Camera) in autonomous driving.
+* 3D scene understanding (Lidar + Camera) for autonomous driving and robotic.
 
 If you are interested in collaborating with me or want to have a chat, always feel free to contact me through e-mail.
 
