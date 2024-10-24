@@ -56,6 +56,13 @@ Wenqiang Xu\*, **Haiyang Wang\***, Fubo Qi, Cewu Lu. In [**ICCV 2019**](https://
 * **National Scholarship (国家奖学金)**, 2021-2022. Awarded annually to top 1 student in all grades of Center for Data Science, Peking University. 
 * **Excellent Student at Shanghai Jiaotong University**, 2020.  Top 5% of graduated students.
 
+📝 Experiences
+======
+* Visiting Student at [MPI-INF D2](https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning). Advisor: [Bernt Schiele](https://scholar.google.com/citations?user=z76PBfYAAAAJ&hl=en&oi=ao) (2023.12 - 2024.12)
+* Internship at [SenseTime](https://www.sensetime.com/en). Advisor: [Jifeng Dai](https://scholar.google.com/citations?user=SH_-B_AAAAAJ&hl=en&oi=ao) and [Wenguan Wang](https://scholar.google.com/citations?user=CqAQQkgAAAAJ&hl=zh-CN) (2020.07 - 2021.07)
+* Visiting Student at [ScAi-UCLA](https://scai.cs.ucla.edu/). Advisor: [Wei Wang](https://scholar.google.de/citations?user=UedS9LQAAAAJ&hl=en) (2019.09 - 2020.04)
+* Undergraduate at [MVIG-SJTU](https://www.mvig.org/). Advisor: [Cewu Lu](https://scholar.google.com/citations?user=QZVQEWAAAAAJ&hl=en) (2018.02 - 2019.05)
+
 💬 Invited Talks
 ======
 * GiT: Towards Generalist Vision Transformer through Universal Language Interface.
