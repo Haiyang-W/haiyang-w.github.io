@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Haiyang Wang (汪海洋), a fifth year Ph.D at Peking University, advised by [Prof. Liwei Wang](http://www.liweiwang-pku.com/). Before starting Ph.D., I completed my undergraduate studies at Zhiyuan College in Shanghai Jiaotong University.
+Hi! I'm Haiyang Wang (汪海洋), the final year Ph.D at Peking University, advised by [Prof. Liwei Wang](http://www.liweiwang-pku.com/). Before starting Ph.D., I completed my undergraduate studies at Zhiyuan College in Shanghai Jiaotong University.
 
 My main research area lies in studying foundation models, such as **architecture design** and **unified modeling**.
 
