@@ -21,7 +21,7 @@ If you are interested in collaborating with me or want to have a chat, always fe
 
 📝 Publications
 ======
-<sub>\* means equal contribution. See the [Publications](/publications/) page for more details. </sub>
+<sub>\* means equal contribution. </sub>
 
 * [GiT: Towards Generalist Vision Transformer through Universal Language Interface](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/04158.pdf).\\
 **Haiyang Wang\***, Hao Tang\*, Li Jiang, Shaoshuai Shi, Muhammad Ferjad Naeem, Hongsheng Li, Bernt Schiele, Liwei Wang. In [**ECCV 2024**](https://eccv.ecva.net/Conferences/2024) (**<font color=red>Oral</font>**). \[[Code](https://github.com/Haiyang-W/GiT)\] &nbsp;<a href="https://github.com/Haiyang-W/GiT"><img alt="GitHub stars" style="vertical-align:middle" src="https://img.shields.io/github/stars/Haiyang-W/GiT?style=social"> </a>
