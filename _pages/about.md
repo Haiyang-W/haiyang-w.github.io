@@ -76,6 +76,6 @@ Wenqiang Xu\*, **Haiyang Wang\***, Fubo Qi, Cewu Lu. In [**ICCV 2019**](https://
   * 2023.11. Hosted by [自动驾驶之心](https://www.zdjszx.com/).
   * 2023.6. Hosted by [Huawei Noah's Ark Lab](https://noahlab.com.hk/#/home). 
 
-🏫 Professional Services
+🏫 Academic Services
 ======
 * Reviewer for CVPR’22-24, ECCV’22, ICML’22-24, NeurIPS’21-24, ICCV’23, IROS’23, ICLR'25.
