@@ -18,7 +18,7 @@ Here are several research areas I worked on:
 * Advancing 3D scene understanding for autonomous driving and robotics.
 * Exploring Embodied AI through reinforcement learning techniques.
 
-If you are interested in collaborating with me or want to have a chat, always feel free to contact me through e-mail.
+If you are interested in collaborating with me or want to have a chat, always feel free to contact me through e-mail (wanghaiyang [at] stu.pku.edu [dot] cn).
 
 📝 Selected Publications
 ======
