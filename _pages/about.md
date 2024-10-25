@@ -8,23 +8,24 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Haiyang Wang (汪海洋), the 5-th year Ph.D at Peking University (PKU), advised by [Prof. Liwei Wang](http://www.liweiwang-pku.com/). Before starting Ph.D., I received my bachelor’s degree from the Zhiyuan College in Shanghai Jiaotong University (SJTU), supervised by [Prof. Cewu Lu](https://www.mvig.org/).
+Hi! I'm Haiyang Wang (汪海洋), the 5th year Ph.D at Peking University (PKU), advised by [Prof. Liwei Wang](http://www.liweiwang-pku.com/). Before that, I received my bachelor’s degree from the Zhiyuan College in Shanghai Jiaotong University (SJTU) at 2020, supervised by [Prof. Cewu Lu](https://www.mvig.org/).
 
-My research interests focus on machine learning and computer vision, particularly in exploring machine learning for AGI. This includes fundamental neural network architecture designing, large language modeling, unified visual modeling, multi-modal understanding, and other topics related to foundation models.
+My research interests focus on machine learning and computer vision, particularly in exploring machine learning for AGI. This includes fundamental neural network designing, large language modeling, unified visual modeling, multi-modal understanding, and other topics related to foundation models.
 
 Here are several research areas I worked on:
-* Designing neural network architecture for foundation models. 
-* Unified computation framework for general visual modeling. 
-* 3D scene understanding (Lidar + Camera) for autonomous driving and robotic.
+* Developing fundamental neural networks for foundation models. 
+* Creating a unified computational framework for general visual modeling. 
+* Advancing 3D scene understanding for autonomous driving and robotics.
+* Exploring Embodied AI through reinforcement learning techniques.
 
 If you are interested in collaborating with me or want to have a chat, always feel free to contact me through e-mail.
 
-📝 Publications
+📝 Selected Publications
 ======
 <sub>\* means equal contribution. </sub>
 
 * [GiT: Towards Generalist Vision Transformer through Universal Language Interface](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/04158.pdf).\\
-**Haiyang Wang\***, Hao Tang\*, Li Jiang, Shaoshuai Shi, Muhammad Ferjad Naeem, Hongsheng Li, Bernt Schiele, Liwei Wang. In [**ECCV 2024**](https://eccv.ecva.net/Conferences/2024). \[[Code](https://github.com/Haiyang-W/GiT)\] &nbsp;<a href="https://github.com/Haiyang-W/GiT"><img alt="GitHub stars" style="vertical-align:middle" src="https://img.shields.io/github/stars/Haiyang-W/GiT?style=social"> </a> (**<font color=red>(Oral Presentation, 2.32% acceptance rate)</font>**)
+**Haiyang Wang\***, Hao Tang\*, Li Jiang, Shaoshuai Shi, Muhammad Ferjad Naeem, Hongsheng Li, Bernt Schiele, Liwei Wang. In [**ECCV 2024**](https://eccv.ecva.net/Conferences/2024). \[[Code](https://github.com/Haiyang-W/GiT)\] &nbsp;<a href="https://github.com/Haiyang-W/GiT"><img alt="GitHub stars" style="vertical-align:middle" src="https://img.shields.io/github/stars/Haiyang-W/GiT?style=social"> </a> **<font color=red>(Oral Presentation, 2.32% acceptance rate)</font>**
 
 * [PRED: Pre-training via Semantic Rendering on LiDAR Point Clouds.](https://proceedings.neurips.cc/paper_files/paper/2023/file/903f778fe1341e5351b5b63e0e6b197f-Paper-Conference.pdf).\\
 Hao Yang, **Haiyang Wang**, Di Dai, Liwei Wang. In [**NeurIPS 2023**](https://neurips.cc/Conferences/2023).
@@ -52,8 +53,8 @@ Wenqiang Xu\*, **Haiyang Wang\***, Fubo Qi, Cewu Lu. In [**ICCV 2019**](https://
 
 🎖 Selected Awards
 ======
-* **National Scholarship (国家奖学金)**, 2022-2023. Awarded annually to top 1 student in all grades of Center for Data Science, Peking University. 
-* **National Scholarship (国家奖学金)**, 2021-2022. Awarded annually to top 1 student in all grades of Center for Data Science, Peking University. 
+* **National Scholarship (博士国家奖学金)**, 2022-2023. Awarded annually to top 1 student in all grades of Center for Data Science, Peking University. 
+* **National Scholarship (博士国家奖学金)**, 2021-2022. Awarded annually to top 1 student in all grades of Center for Data Science, Peking University. 
 * **Excellent Student at Shanghai Jiaotong University**, 2020.  Top 5% of graduated students.
 
 📝 Experiences
