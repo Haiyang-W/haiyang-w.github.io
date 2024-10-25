@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Haiyang Wang (汪海洋), the 5th year Ph.D at Peking University (PKU), advised by [Prof. Liwei Wang](http://www.liweiwang-pku.com/). Before that, I received my bachelor’s degree from the Zhiyuan College in Shanghai Jiaotong University (SJTU) at 2020, supervised by [Prof. Cewu Lu](https://www.mvig.org/).
+Hi! I'm Haiyang Wang (汪海洋), the 5th year Ph.D at Peking University (PKU), advised by [Prof. Liwei Wang](http://www.liweiwang-pku.com/). Before that, I received my bachelor’s degree from the Zhiyuan College in Shanghai Jiaotong University (SJTU) at 2020, supervised by [Prof. Cewu Lu](https://www.mvig.org/). I also work very close with [Shaoshuai Shi](https://shishaoshuai.com/). I was fortunate to work with [Prof. Bernt Schiele](https://scholar.google.com/citations?user=z76PBfYAAAAJ&hl=en) at [Max Planck Institute for Informatics (MPI-INF)](https://www.mpi-inf.mpg.de/home/), [Prof. Jifeng Dai](https://scholar.google.com/citations?user=SH_-B_AAAAAJ&hl=en) at [Sensetime](https://www.sensetime.com/en), and [Prof. Wei Wang](https://scholar.google.de/citations?user=UedS9LQAAAAJ&hl=en) at [UCLA](https://www.ucla.edu/).
 
 My research interests focus on machine learning and computer vision, particularly in exploring machine learning for AGI. This includes fundamental neural network designing, large language modeling, unified visual modeling, multi-modal understanding, and other topics related to foundation models.
 
