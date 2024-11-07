@@ -24,10 +24,13 @@ If you are interested in collaborating with me or want to have a chat, always fe
 ======
 <sub>\* means equal contribution. </sub>
 
+* [TokenFormer: Rethinking Transformer Scaling with Tokenized Model Parameters](https://arxiv.org/abs/2410.23168).\\
+Haiyang Wang, Yue Fan, Muhammad Ferjad Naeem, Yongqin Xian, Jan Eric Lenssen, Liwei Wang, Federico Tombari, Bernt Schiele. In [**ArXiV 2024**](https://arxiv.org/). \[[Code](https://github.com/Haiyang-W/TokenFormer)\] &nbsp;<a href="https://github.com/Haiyang-W/TokenFormer"><img alt="GitHub stars" style="vertical-align:middle" src="https://img.shields.io/github/stars/Haiyang-W/TokenFormer?style=social"> </a>
+
 * [GiT: Towards Generalist Vision Transformer through Universal Language Interface](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/04158.pdf).\\
 **Haiyang Wang\***, Hao Tang\*, Li Jiang, Shaoshuai Shi, Muhammad Ferjad Naeem, Hongsheng Li, Bernt Schiele, Liwei Wang. In [**ECCV 2024**](https://eccv.ecva.net/Conferences/2024). \[[Code](https://github.com/Haiyang-W/GiT)\] &nbsp;<a href="https://github.com/Haiyang-W/GiT"><img alt="GitHub stars" style="vertical-align:middle" src="https://img.shields.io/github/stars/Haiyang-W/GiT?style=social"> </a> **<font color=red>(Oral Presentation, 2.32% acceptance rate)</font>**
 
-* [PRED: Pre-training via Semantic Rendering on LiDAR Point Clouds.](https://proceedings.neurips.cc/paper_files/paper/2023/file/903f778fe1341e5351b5b63e0e6b197f-Paper-Conference.pdf).\\
+* [PRED: Pre-training via Semantic Rendering on LiDAR Point Clouds](https://proceedings.neurips.cc/paper_files/paper/2023/file/903f778fe1341e5351b5b63e0e6b197f-Paper-Conference.pdf).\\
 Hao Yang, **Haiyang Wang**, Di Dai, Liwei Wang. In [**NeurIPS 2023**](https://neurips.cc/Conferences/2023).
 
 * [UniTR: A Unified and Efficient Multi-Modal Transformer for Bird's-Eye-View Representation](https://openaccess.thecvf.com/content/ICCV2023/papers/Wang_UniTR_A_Unified_and_Efficient_Multi-Modal_Transformer_for_Birds-Eye-View_Representation_ICCV_2023_paper.pdf).\\
@@ -66,6 +69,9 @@ Wenqiang Xu\*, **Haiyang Wang\***, Fubo Qi, Cewu Lu. In [**ICCV 2019**](https://
 
 💬 Invited Talks
 ======
+* TokenFormer: Rethinking Transformer Scaling with Tokenized Model Parameters.
+  * 2024.11. Hosted by [Huawei Noah's Ark Lab](https://noahlab.com.hk/#/home). 
+  * 2024.10. Hosted by [Google VIA Center](https://www.mpg.de/18787770/research-center-visual-computing-interaction-artificial-intelligence)
 * GiT: Towards Generalist Vision Transformer through Universal Language Interface.
   * 2024.4. Hosted by [Huawei Technologies Co., Ltd](https://www.huawei.com/cn/corporate-information).
   * 2024.4. Hosted by [Google VIA Center](https://www.mpg.de/18787770/research-center-visual-computing-interaction-artificial-intelligence)
@@ -78,4 +84,4 @@ Wenqiang Xu\*, **Haiyang Wang\***, Fubo Qi, Cewu Lu. In [**ICCV 2019**](https://
 
 🏫 Academic Services
 ======
-* Reviewer for CVPR’22-24, ECCV’22, ICML’22-24, NeurIPS’21-24, ICCV’23, IROS’23, ICLR'25.
+* Reviewer for NeurIPS’21, CVPR’22, ECCV’22, ICML’22, NeurIPS’22, CVPR’23, ICML’23, ICCV’23, NeurIPS’23, IROS’23, CVPR'24, ICML'24, NeurIPS’24 (**<font color=red>Top Reviewer</font>**), ICLR'25
