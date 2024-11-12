@@ -70,6 +70,7 @@ Wenqiang Xu\*, **Haiyang Wang\***, Fubo Qi, Cewu Lu. In [**ICCV 2019**](https://
 💬 Invited Talks
 ======
 * TokenFormer: Rethinking Transformer Scaling with Tokenized Model Parameters.
+  * 2024.10. Hosted by [BAAI(智源)](https://event.baai.ac.cn). [[Video](https://event.baai.ac.cn/activities/858)]
   * 2024.11. Hosted by [Huawei Noah's Ark Lab](https://noahlab.com.hk/#/home). 
   * 2024.10. Hosted by [Google VIA Center](https://www.mpg.de/18787770/research-center-visual-computing-interaction-artificial-intelligence)
 * GiT: Towards Generalist Vision Transformer through Universal Language Interface.
