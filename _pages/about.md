@@ -8,17 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Haiyang Wang (汪海洋), the 5th year Ph.D at Peking University (PKU), advised by [Prof. Liwei Wang](http://www.liweiwang-pku.com/). Before that, I received my bachelor’s degree from the Zhiyuan College in Shanghai Jiaotong University (SJTU) at 2020, supervised by [Prof. Cewu Lu](https://www.mvig.org/). I also work very close with [Shaoshuai Shi](https://shishaoshuai.com/). I was fortunate to work with [Prof. Bernt Schiele](https://scholar.google.com/citations?user=z76PBfYAAAAJ&hl=en) at Max Planck Institute for Informatics, [Prof. Jifeng Dai](https://scholar.google.com/citations?user=SH_-B_AAAAAJ&hl=en) at Sensetime, and [Prof. Wei Wang](https://scholar.google.de/citations?user=UedS9LQAAAAJ&hl=en) at UCLA.
+Hi! I'm Haiyang Wang (汪海洋), a researcher (TopMinds) at Huawei. I obtained my Ph.D degree from Peking University (PKU) at 2025, advised by [Prof. Liwei Wang](http://www.liweiwang-pku.com/). Before that, I received my bachelor’s degree from the Zhiyuan College in Shanghai Jiaotong University (SJTU) at 2020, supervised by [Prof. Cewu Lu](https://www.mvig.org/). I also work very close with [Shaoshuai Shi](https://shishaoshuai.com/). I was fortunate to work with [Prof. Bernt Schiele](https://scholar.google.com/citations?user=z76PBfYAAAAJ&hl=en) at Max Planck Institute for Informatics, [Prof. Jifeng Dai](https://scholar.google.com/citations?user=SH_-B_AAAAAJ&hl=en) at Sensetime, and [Prof. Wei Wang](https://scholar.google.de/citations?user=UedS9LQAAAAJ&hl=en) at UCLA.
 
-My research interests focus on machine learning and computer vision, particularly in exploring machine learning for AGI. This includes fundamental neural network designing, large language modeling, unified visual modeling, multi-modal understanding, and other topics related to foundation models.
+My current research focus is on developing general-purpose agent systems, with a particular emphasis on code-related applications. This includes self-evolving systems, autonomous program debugging, model architectures optimized for code processing, and the development of closed-loop code agent systems.
+
+I am currently developing the CodeAgent system at Huawei Technologies Ltd, with the goal of bypassing programmers to deliver services directly to end users. 
+
+**<font color="red">[Hiring] We are seeking talents for both full-time positions and research internships throughout the year. Here you'll find abundant computation resources and the freedom to explore—pursue what truly inspires you. If you are interested in working with us, please feel free to send me an email.</font> (wanghaiyang672 [at] gmail [dot] com)**
 
 Here are several research areas I worked on:
 * Developing fundamental neural networks for foundation models. 
 * Creating a unified computational framework for general visual modeling. 
 * Advancing 3D scene understanding for autonomous driving and robotics.
 * Exploring Embodied AI through reinforcement learning techniques.
-
-If you are interested in collaborating with me or want to have a chat, always feel free to contact me through e-mail (wanghaiyang [at] stu.pku.edu [dot] cn).
 
 📝 Selected Publications
 ======
