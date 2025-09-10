@@ -14,7 +14,7 @@ My current research focus is on developing general-purpose agent systems, with a
 
 I am currently developing the CodeAgent system at Huawei Technologies Ltd, with the goal of bypassing programmers to deliver services directly to end users. 
 
-**<font color="red">[Hiring] We are seeking talents for both full-time positions and research internships throughout the year. Here you'll find abundant computation resources and the freedom to explore—pursue what truly inspires you. If you are interested in working with us, please feel free to send me an email.</font> (wanghaiyang672 [at] gmail [dot] com)**
+**<font color="red">[Hiring] We are seeking talents for both full-time positions and research internships throughout the year. Here you'll find abundant computation resources and the freedom to explore—pursue what truly inspires you. If you are interested in working with us, please feel free to send me an email.</font> (wangocean.cs [at] gmail [dot] com)**
 
 Here are several research areas I worked on:
 * Developing fundamental neural networks for foundation models. 
