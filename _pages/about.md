@@ -31,7 +31,7 @@ Previous research areas:
 
 ### Preprints
 * [CLI-Gym: Scalable CLI Task Generation via Agentic Environment Inversion](https://arxiv.org/pdf/2602.10999).\\
-Yusong Lin, **Haiyang Wang<sup>†</sup>**, Shuzhe Wu, Lue Fan, Feiyang Pan, Sanyuan Zhao<sup>†</sup>, Dandan Tu<sup>†</sup>. \[[Code](https://github.com/LiberCoders/CLI-Gym)\] &nbsp;<a href="https://github.com/LiberCoders/CLI-Gym"><img alt="GitHub stars" style="vertical-align:middle" src="https://img.shields.io/github/stars/LiberCoders/CLI-Gym?style=social"></a> &nbsp;\[[Dataset](https://huggingface.co/datasets/LiberCoders/CLI-Gym)\] &nbsp;<a href="https://huggingface.co/datasets/LiberCoders/CLI-Gym"><img alt="Hugging Face downloads" style="vertical-align:middle" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fdatasets%2FLiberCoders%2FCLI-Gym&query=%24.downloads&label=Downloads&suffix=%20monthly&color=white&logo=huggingface&logoColor=FFD21E"></a>
+Yusong Lin, **Haiyang Wang**<sup>†</sup>, Shuzhe Wu, Lue Fan, Feiyang Pan, Sanyuan Zhao<sup>†</sup>, Dandan Tu<sup>†</sup>. \[[Code](https://github.com/LiberCoders/CLI-Gym)\] &nbsp;<a href="https://github.com/LiberCoders/CLI-Gym"><img alt="GitHub stars" style="vertical-align:middle" src="https://img.shields.io/github/stars/LiberCoders/CLI-Gym?style=social"></a> &nbsp;\[[Dataset](https://huggingface.co/datasets/LiberCoders/CLI-Gym)\] &nbsp;<a href="https://huggingface.co/datasets/LiberCoders/CLI-Gym"><img alt="Hugging Face downloads" style="vertical-align:middle" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fdatasets%2FLiberCoders%2FCLI-Gym&query=%24.downloads&label=Downloads&suffix=%20monthly&color=white&logo=huggingface&logoColor=FFD21E"></a>
 
 ### Publications
 
