@@ -14,7 +14,7 @@ I received my Ph.D. from Peking University in 2025, advised by [Prof. Liwei Wang
 
 I am currently developing a general-purpose coding agent that uses code to address a broad range of user needs across tasks and domains.
 
-**<font color="red">[Hiring] We recruit full-time researchers and research interns year-round, offering extensive computational resources and research freedom. I also welcome thoughtful discussions and informal exchanges to broaden our perspectives. Please reach out by email.</font> (wangocean.cs [at] gmail [dot] com)**
+**<font color="red">[Hiring] We recruit full-time researchers and research interns year-round, offering extensive resources and research freedom. I also welcome thoughtful discussions and informal exchanges to broaden our perspectives. Please reach out by email.</font> (wangocean.cs [at] gmail [dot] com)**
 
 ## Selected Publications
 <sub>\* means equal contribution. † indicates corresponding author.</sub>
