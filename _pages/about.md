@@ -12,12 +12,9 @@ I am Haiyang Wang (汪海洋), a researcher at Huawei (TopMinds). My research ai
 
 I received my Ph.D. from Peking University in 2025, advised by [Prof. Liwei Wang](http://www.liweiwang-pku.com/), and my bachelor's degree from Zhiyuan College, Shanghai Jiao Tong University, in 2020, where I worked with [Prof. Cewu Lu](https://www.mvig.org/). I have also closely collaborated with [Shaoshuai Shi](https://shishaoshuai.com/), with research experience at MPI-INF (with [Prof. Bernt Schiele](https://scholar.google.com/citations?user=z76PBfYAAAAJ&hl=en)), SenseTime (with [Prof. Jifeng Dai](https://scholar.google.com/citations?user=SH_-B_AAAAAJ&hl=en)), and UCLA (with [Prof. Wei Wang](https://scholar.google.com/citations?user=08CVzE8AAAAJ&hl=en)).
 
-<dl class="profile-updates">
-  <dt>Notes</dt>
-  <dd>I regularly share my learning notes and reading reflections openly in <a href="https://github.com/Haiyang-W/ai-frontier-notes">AI Frontier Notes</a>, in the hope that they are useful to others as we learn and grow together, every day.</dd>
-  <dt>Hiring</dt>
-  <dd>We recruit full-time researchers and research interns year-round, offering extensive resources and research freedom. I also welcome thoughtful discussions and informal exchanges to broaden our perspectives. Please reach out at <a href="mailto:wangocean.cs@gmail.com">wangocean.cs [at] gmail [dot] com</a>.</dd>
-</dl>
+**Notes:** I regularly share my learning notes and reading reflections openly in [AI Frontier Notes](https://github.com/Haiyang-W/ai-frontier-notes), in the hope that they are useful to others as we learn and grow together, every day.
+
+**Hiring:** We recruit full-time researchers and research interns year-round, offering extensive resources and research freedom. I also welcome thoughtful discussions and informal exchanges to broaden our perspectives. Please reach out at [wangocean.cs [at] gmail [dot] com](mailto:wangocean.cs@gmail.com).
 
 ## Selected Publications
 <sub>\* means equal contribution. † indicates corresponding author.</sub>
