@@ -3,7 +3,6 @@ permalink: /
 title: "About Me"
 excerpt: "The main page about me."
 author_profile: true
-page_class: academic-home
 redirect_from: 
   - /about/
   - /about.html
@@ -15,11 +14,7 @@ I received my Ph.D. from Peking University in 2025, advised by [Prof. Liwei Wang
 
 I am currently developing a general-purpose coding agent that uses code to address a broad range of user needs across tasks and domains.
 
-<aside class="hiring-notice" aria-labelledby="hiring-title">
-  <h2 id="hiring-title">Open Positions</h2>
-  <p>We recruit full-time researchers and research interns year-round, offering extensive computational resources and research freedom. I also welcome thoughtful discussions and informal exchanges to broaden our perspectives.</p>
-  <p class="hiring-notice__contact">Please reach out by email: <a href="mailto:wangocean.cs@gmail.com">wangocean.cs@gmail.com</a></p>
-</aside>
+**<font color="red">[Hiring] We recruit full-time researchers and research interns year-round, offering extensive computational resources and research freedom. I also welcome thoughtful discussions and informal exchanges to broaden our perspectives. Please reach out by email.</font> (wangocean.cs [at] gmail [dot] com)**
 
 ## Selected Publications
 <sub>\* means equal contribution. † indicates corresponding author.</sub>
@@ -41,10 +36,10 @@ Yusong Lin, **Haiyang Wang**<sup>†</sup>, Shuzhe Wu, Lue Fan, Feiyang Pan, San
 Qixing Zhou\*, Jiacheng Zhang\*, **Haiyang Wang\***, Rui Hao, Jiahe Wang, Minghao Han, Yuxue Yang, Shuzhe Wu, Feiyang Pan, Lue Fan<sup>†</sup>, Dandan Tu, Zhaoxiang Zhang<sup>†</sup>. In [**ICLR 2026**](https://iclr.cc/). \[[Code](https://github.com/LiberCoders/FeatureBench)\] &nbsp;<a href="https://github.com/LiberCoders/FeatureBench"><img alt="GitHub stars" style="vertical-align:middle" src="https://img.shields.io/github/stars/LiberCoders/FeatureBench?style=social"></a> &nbsp;\[[Dataset](https://huggingface.co/datasets/LiberCoders/FeatureBench)\] &nbsp;<a href="https://huggingface.co/datasets/LiberCoders/FeatureBench"><img alt="Hugging Face downloads" style="vertical-align:middle" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fdatasets%2FLiberCoders%2FFeatureBench&query=%24.downloads&label=Downloads&suffix=%20monthly&color=white&logo=huggingface&logoColor=FFD21E"></a>
 
 * [TokenFormer: Rethinking Transformer Scaling with Tokenized Model Parameters](https://arxiv.org/abs/2410.23168).\\
-**Haiyang Wang\***, Yue Fan\*, Muhammad Ferjad Naeem, Yongqin Xian, Jan Eric Lenssen, Liwei Wang, Federico Tombari, Bernt Schiele. In [**ICLR 2025**](https://iclr.cc/). \[[Code](https://github.com/Haiyang-W/TokenFormer)\] &nbsp;<a href="https://github.com/Haiyang-W/TokenFormer"><img alt="GitHub stars" style="vertical-align:middle" src="https://img.shields.io/github/stars/Haiyang-W/TokenFormer?style=social"> </a> **<span class="research-distinction">(Spotlight Presentation, 3.20% acceptance rate)</span>**
+**Haiyang Wang\***, Yue Fan\*, Muhammad Ferjad Naeem, Yongqin Xian, Jan Eric Lenssen, Liwei Wang, Federico Tombari, Bernt Schiele. In [**ICLR 2025**](https://iclr.cc/). \[[Code](https://github.com/Haiyang-W/TokenFormer)\] &nbsp;<a href="https://github.com/Haiyang-W/TokenFormer"><img alt="GitHub stars" style="vertical-align:middle" src="https://img.shields.io/github/stars/Haiyang-W/TokenFormer?style=social"> </a> **<font color=red>(Spotlight Presentation, 3.20% acceptance rate)</font>**
 
 * [GiT: Towards Generalist Vision Transformer through Universal Language Interface](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/04158.pdf).\\
-**Haiyang Wang\***, Hao Tang\*, Li Jiang<sup>†</sup>, Shaoshuai Shi, Muhammad Ferjad Naeem, Hongsheng Li, Bernt Schiele, Liwei Wang<sup>†</sup>. In [**ECCV 2024**](https://eccv.ecva.net/Conferences/2024). \[[Code](https://github.com/Haiyang-W/GiT)\] &nbsp;<a href="https://github.com/Haiyang-W/GiT"><img alt="GitHub stars" style="vertical-align:middle" src="https://img.shields.io/github/stars/Haiyang-W/GiT?style=social"> </a> **<span class="research-distinction">(Oral Presentation, 2.32% acceptance rate)</span>**
+**Haiyang Wang\***, Hao Tang\*, Li Jiang<sup>†</sup>, Shaoshuai Shi, Muhammad Ferjad Naeem, Hongsheng Li, Bernt Schiele, Liwei Wang<sup>†</sup>. In [**ECCV 2024**](https://eccv.ecva.net/Conferences/2024). \[[Code](https://github.com/Haiyang-W/GiT)\] &nbsp;<a href="https://github.com/Haiyang-W/GiT"><img alt="GitHub stars" style="vertical-align:middle" src="https://img.shields.io/github/stars/Haiyang-W/GiT?style=social"> </a> **<font color=red>(Oral Presentation, 2.32% acceptance rate)</font>**
 
 * [PRED: Pre-training via Semantic Rendering on LiDAR Point Clouds](https://proceedings.neurips.cc/paper_files/paper/2023/file/903f778fe1341e5351b5b63e0e6b197f-Paper-Conference.pdf).\\
 Hao Yang, **Haiyang Wang**, Di Dai, Liwei Wang. In [**NeurIPS 2023**](https://neurips.cc/Conferences/2023).
@@ -97,4 +92,4 @@ Wenqiang Xu\*, **Haiyang Wang\***, Fubo Qi, Cewu Lu. In [**ICCV 2019**](https://
   * 2023.6. Hosted by [Huawei Noah's Ark Lab](https://noahlab.com.hk/#/home). 
 
 ## Academic Services
-* Reviewer for NeurIPS’21, CVPR’22, ECCV’22, ICML’22, NeurIPS’22, CVPR’23, ICML’23, ICCV’23, NeurIPS’23, IROS’23, CVPR'24, ICML'24, NeurIPS’24 (**<span class="research-distinction">Top Reviewer</span>**), ICLR'25, ICLR'26
+* Reviewer for NeurIPS’21, CVPR’22, ECCV’22, ICML’22, NeurIPS’22, CVPR’23, ICML’23, ICCV’23, NeurIPS’23, IROS’23, CVPR'24, ICML'24, NeurIPS’24 (**<font color=red>Top Reviewer</font>**), ICLR'25, ICLR'26
