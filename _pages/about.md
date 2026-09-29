@@ -10,7 +10,7 @@ redirect_from:
 
 I am Haiyang Wang (汪海洋), a researcher at Huawei (TopMinds). My research interests center on artificial superintelligence (ASI) and coding agents, with a focus on long-horizon agentic reinforcement learning and recursive self-improvement (RSI).
 
-I received my Ph.D. from Peking University in 2025, advised by [Prof. Liwei Wang](http://www.liweiwang-pku.com/), and my bachelor's degree from Zhiyuan College, Shanghai Jiao Tong University, in 2020, where I worked with [Prof. Cewu Lu](https://www.mvig.org/). I have also closely collaborated with [Shaoshuai Shi](https://shishaoshuai.com/), with research experience at MPI-INF, SenseTime, and UCLA.
+I received my Ph.D. from Peking University in 2025, advised by [Prof. Liwei Wang](http://www.liweiwang-pku.com/), and my bachelor's degree from Zhiyuan College, Shanghai Jiao Tong University, in 2020, where I worked with [Prof. Cewu Lu](https://www.mvig.org/). I have also closely collaborated with [Shaoshuai Shi](https://shishaoshuai.com/), with research experience at MPI-INF (with [Prof. Bernt Schiele](https://scholar.google.com/citations?user=z76PBfYAAAAJ&hl=en)), SenseTime (with [Prof. Jifeng Dai](https://scholar.google.com/citations?user=SH_-B_AAAAAJ&hl=en)), and UCLA (with [Prof. Wei Wang](https://scholar.google.de/citations?user=UedS9LQAAAAJ&hl=en)).
 
 I am currently developing a general-purpose coding agent that uses code to address a broad range of user needs across tasks and domains.
 
