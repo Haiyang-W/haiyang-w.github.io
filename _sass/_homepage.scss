@@ -1,0 +1,87 @@
+/* Homepage: restrained blue accents and a consistent reading rhythm. */
+.academic-home {
+  color: #263445;
+
+  a {
+    color: #285c88;
+
+    &:visited { color: #285c88; }
+    &:hover { color: #173e60; }
+    &:focus-visible {
+      outline: 2px solid #285c88;
+      outline-offset: 3px;
+    }
+  }
+
+  #main {
+    margin-top: 2.5em;
+    margin-bottom: 3em;
+  }
+
+  .page__title {
+    color: #1d3045;
+    line-height: 1.25;
+    margin-bottom: 1em;
+  }
+
+  .page__content {
+    font-size: 16px;
+    line-height: 1.7;
+
+    p, li, dl { font-size: 1em; }
+    p { margin-bottom: 1.25em; }
+
+    h2 {
+      color: #1d3045;
+      margin-top: 2.6em;
+      margin-bottom: 1em;
+      padding-bottom: 0.55em;
+      border-bottom-color: #e2e8ef;
+    }
+
+    h3 {
+      color: #41556b;
+      margin-top: 1.8em;
+      margin-bottom: 0.9em;
+    }
+
+    > ul { padding-left: 1.25em; }
+    > ul > li { margin-bottom: 1.35em; }
+    li > ul { margin-top: 0.5em; }
+    li > ul > li { margin-bottom: 0.4em; }
+
+    a {
+      text-decoration-color: #b7cadb;
+      text-underline-offset: 3px;
+    }
+
+    .research-distinction { color: #285c88; }
+  }
+
+  .hiring-notice {
+    margin: 1.8em 0 2.4em;
+    padding: 1.25em 1.5em;
+    background: #f3f7fb;
+    border: 1px solid #dce6ef;
+    border-left: 3px solid #285c88;
+    border-radius: 6px;
+
+    h2 {
+      margin: 0 0 0.65em;
+      padding: 0;
+      border: 0;
+      color: #285c88;
+      font-size: 1em;
+      line-height: 1.4;
+    }
+
+    p { margin: 0 0 0.8em; }
+    .hiring-notice__contact { margin-bottom: 0; }
+    a { overflow-wrap: anywhere; }
+  }
+
+  @media (max-width: 767px) {
+    #main { margin-top: 1.5em; }
+    .hiring-notice { padding: 1.1em; }
+  }
+}
